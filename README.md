@@ -1,6 +1,8 @@
 Resonance Architect | Independent Researcher
 
-Creator of the Unified Resonance Research Program — a multidomain framework exploring resonance, oscillatory systems, cosmology, cognition, and emergent structural theory.
+Creator of the Unified Resonance Research Program (UURP), a multidomain framework integrating resonance-based theory with experimental system design.
+
+---
 
 ## Research Domains
 
@@ -10,6 +12,8 @@ Creator of the Unified Resonance Research Program — a multidomain framework ex
 - AI Governance & Stability
 - Cross-Domain Systems Modeling
 
+---
+
 ## Framework Families
 
 - URC — Unified Resonance Cosmology
@@ -17,10 +21,52 @@ Creator of the Unified Resonance Research Program — a multidomain framework ex
 - HARO — Human-AI Resonance Observation
 - XYCON — XY Continuum Project
 - RCS — Resonance Continuum Series
+  
+  ---
+  
+ ## System Architecture
+
+The research ecosystem is supported by a set of experimental and architectural systems:
+
+### RLM — Resonance Logic Model
+Core reasoning architecture for structured multi-agent systems.
+
+- Dialectic reasoning loops  
+- Persistent memory and state tracking  
+- System coherence and stability modeling  
+
+---
+
+### Resonance AI Sandbox
+Experimental environment for agent interaction and system testing.
+
+- Multi-agent coordination and reasoning workflows  
+- Memory persistence and retrieval exploration  
+- Iterative testing and refinement of system behavior  
+
+---
+
+### CascadeNexus — Simulation Engine
+Dynamics layer for observing nonlinear system behavior.
+
+- Reaction-diffusion simulation engine  
+- Real-time parameter tuning  
+- Emergent pattern and stability exploration  
+
+---
+
+These systems form a layered framework for exploring how systems:
+- reason  
+- interact  
+- evolve
+
+---
 
 ## Publications
 
 Zenodo Archive
+
+---
 
 ## Research Profiles
 
