@@ -102,3 +102,10 @@ Zenodo Archive
 - [Zenodo Publications](https://zenodo.org/search?q=Misty+Michele+Richards)
 - [Google Developer Profile](https://g.dev/ResonanceArchitect)
 - [Microsoft Developer Community](https://techcommunity.microsoft.com/users/resonancearchitect83/3412402)
+
+---
+
+### 
+
+— Misty Michele Richards  
+*From quarks to quasars… and from Kubernetes to cognition.*
