@@ -16,11 +16,11 @@ Creator of the Unified Resonance Research Program (UURP), a multidomain framewor
 
 ## Framework Families
 
-- URC — Unified Resonance Cosmology  
-- TRO — Time Resonance Observation  
-- HARO — Human-AI Resonance Observation  
-- XYCON — XY Continuum Project  
-- RCS — Resonance Continuum Series  
+- **URC** — Unified Resonance Cosmology  
+- **TRO** — Time Resonance Observation  
+- **HARO** — Human-AI Resonance Observation  
+- **XYCON** — XY Continuum Project  
+- **RCS** — Resonance Continuum Series  
 
 ---
 
@@ -28,9 +28,8 @@ Creator of the Unified Resonance Research Program (UURP), a multidomain framewor
 
 The research ecosystem is supported by a set of experimental and architectural systems:
 
----
+### RLM — Resonance Logic Model
 
-### **RLM — Resonance Logic Model**
 Core reasoning architecture for structured multi-agent systems.
 
 - Dialectic reasoning loops  
@@ -39,7 +38,8 @@ Core reasoning architecture for structured multi-agent systems.
 
 ---
 
-### **Resonance AI Sandbox**
+### Resonance AI Sandbox
+
 Experimental environment for agent interaction and system testing.
 
 - Multi-agent coordination and reasoning workflows  
@@ -48,7 +48,8 @@ Experimental environment for agent interaction and system testing.
 
 ---
 
-### **CascadeNexus — Simulation Engine**
+### CascadeNexus — Simulation Engine
+
 Dynamics layer for observing nonlinear system behavior.
 
 - Reaction-diffusion simulation engine  
@@ -63,7 +64,7 @@ Together, these systems form a layered framework for exploring how systems:
 - interact  
 - evolve  
 
-This work bridges theoretical modeling with experimental system design.
+This work bridges theoretical modeling with experimental system design, connecting abstract frameworks to observable system behavior.
 
 ---
 
@@ -79,33 +80,9 @@ This work bridges theoretical modeling with experimental system design.
 - LinkedIn  
 - Zenodo Publications  
 - Google Developer Profile  
-- Microsoft Developer Community
----
-
-These systems form a layered framework for exploring how systems:
-- reason  
-- interact  
-- evolve
+- Microsoft Developer Community  
 
 ---
-
-## Publications
-
-Zenodo Archive
-
----
-
-## Research Profiles
-
-- [ORCID](https://orcid.org/0009-0003-3539-2219)
-- [LinkedIn](https://www.linkedin.com/in/resonancearchitect/)
-- [Zenodo Publications](https://zenodo.org/search?q=Misty+Michele+Richards)
-- [Google Developer Profile](https://g.dev/ResonanceArchitect)
-- [Microsoft Developer Community](https://techcommunity.microsoft.com/users/resonancearchitect83/3412402)
-
----
-
-### 
 
 — Misty Michele Richards  
 *From quarks to quasars… and from Kubernetes to cognition.*
