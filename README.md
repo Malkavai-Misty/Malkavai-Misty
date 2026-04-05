@@ -22,7 +22,7 @@ Creator of the Unified Resonance Research Program (UURP), a multidomain framewor
 - XYCON — XY Continuum Project
 - RCS — Resonance Continuum Series
   
-  ---
+---
   
  ## System Architecture
 
