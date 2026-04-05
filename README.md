@@ -34,7 +34,9 @@ Core reasoning architecture for structured multi-agent systems.
 
 - Dialectic reasoning loops  
 - Persistent memory and state tracking  
-- System coherence and stability modeling  
+- System coherence and stability mReadme.
+
+Status: Unpublished | Under Development
 
 ---
 
@@ -44,7 +46,9 @@ Experimental environment for agent interaction and system testing.
 
 - Multi-agent coordination and reasoning workflows  
 - Memory persistence and retrieval exploration  
-- Iterative testing and refinement of system behavior  
+- Iterative testing and refinement of system behavior
+
+Status: Unpublished | Under Development
 
 ---
 
@@ -54,7 +58,9 @@ Dynamics layer for observing nonlinear system behavior.
 
 - Reaction-diffusion simulation engine  
 - Real-time parameter tuning  
-- Emergent pattern and stability exploration  
+- Emergent pattern and stability exploration
+
+Status: Unpublished | Under Development  
 
 ---
 
