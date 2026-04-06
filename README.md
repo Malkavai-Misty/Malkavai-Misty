@@ -79,19 +79,7 @@ This work bridges theoretical modeling with experimental system design, connecti
 
 ---
 
-## Publications
-
-- Zenodo Archive  
-
----
-
-## Publications
-
-🔗 [Zenodo Archive (DOI Registered Work)](https://zenodo.org/search?q=Misty+Michele+Richards)
-
----
-
-## Research Profiles
+## Research & Publications
 
 - 🔗 [ORCID](https://orcid.org/0009-0003-3539-2219)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/resonancearchitect/)
