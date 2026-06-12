@@ -102,11 +102,11 @@ This work bridges theoretical modeling with experimental system design, connecti
 
 ## Research & Publications
 
-- 🔗 ORCID — https://orcid.org/0009-0003-3539-2219
-- 🔗 LinkedIn — https://www.linkedin.com/in/resonancearchitect/
-- 🔗 Zenodo Publications — https://zenodo.org/search?q=ResonanceArchitect
-- 🔗 Google Developer Profile — https://g.dev/ResonanceArchitect
-- 🔗 Microsoft Developer Community — https://techcommunity.microsoft.com/users/resonancearchitect83/3412402
+- 🔗 [ORCID](https://orcid.org/0009-0003-3539-2219)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/resonancearchitect/)
+- 🔗 [Zenodo Publications](https://zenodo.org/search?q=ResonanceArchitect)
+- 🔗 [Google Developer Profile](https://g.dev/ResonanceArchitect)
+- 🔗 [Microsoft Developer Community](https://techcommunity.microsoft.com/users/resonancearchitect83/3412402)
 
 ---
 
