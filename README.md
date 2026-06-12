@@ -1,6 +1,6 @@
 # Resonance Architect | Independent Researcher
 
-Creator of the Unified Resonance Research Program (UURP), a multidomain framework integrating resonance-based theory with experimental system design.
+Creator of the Unified Resonance Research Program (URRP), a multidomain framework integrating resonance-based theory with experimental system design.
 
 ---
 
@@ -26,9 +26,11 @@ Creator of the Unified Resonance Research Program (UURP), a multidomain framewor
 
 ## System Architecture
 
-The research ecosystem is supported by a set of experimental and architectural systems:
+The research ecosystem is supported by a set of experimental and architectural systems.
 
-### RLM — Resonance Logic Model
+---
+
+## RLM — Resonance Logic Model
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19432607.svg)](https://doi.org/10.5281/zenodo.19432607)
 
@@ -36,26 +38,27 @@ Core reasoning architecture for structured multi-agent systems.
 
 - Dialectic reasoning loops  
 - Persistent memory and state tracking  
-- System coherence and stability
-- Readme.
+- System coherence and stability  
 
-Status: Active Development | Experimental (Non–Peer Reviewed) Release (v1.0) | Restricted Repository Access | CC BY-NC-ND 4.0
+**Status:** Active Development | Experimental (Non-Peer Reviewed) Release (v1.0) | Restricted Repository Access | CC BY-NC-ND 4.0  
 
 ---
 
-### Resonance AI Sandbox
+## Resonance AI Sandbox (RAS)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19916977.svg)](https://doi.org/10.5281/zenodo.19916977)
 
 Experimental environment for agent interaction and system testing.
 
 - Multi-agent coordination and reasoning workflows  
 - Memory persistence and retrieval exploration  
-- Iterative testing and refinement of system behavior
+- Iterative testing and refinement of system behavior  
 
-Status: Unpublished | Under Development
+**Status:** Active Development | Experimental (Non-Peer Reviewed) Release (v1.0) | Restricted Repository Access | CC BY-NC-ND 4.0  
 
 ---
 
-### CascadeNexus — Simulation Engine
+## CascadeNexus — Simulation Engine
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19440327.svg)](https://doi.org/10.5281/zenodo.19440327)
 
@@ -63,9 +66,26 @@ Dynamics layer for observing nonlinear system behavior.
 
 - Reaction-diffusion simulation engine  
 - Real-time parameter tuning  
-- Emergent pattern and stability exploration
+- Emergent pattern and stability exploration  
 
-Status: Active Development | Experimental (Non–Peer Reviewed) Release (v1.0) | Restricted Repository Access | CC BY-NC-ND 4.0
+**Status:** Active Development | Experimental (Non-Peer Reviewed) Release (v1.0) | Restricted Repository Access | CC BY-NC-ND 4.0  
+
+---
+
+## Resonance Roundtable — Multi-Provider AI Comparison Framework
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20669861.svg)](https://doi.org/10.5281/zenodo.20669861)
+
+Multi-provider AI comparison system for parallel model evaluation and contradiction analysis.
+
+- Side-by-side LLM response comparison  
+- Comparative reasoning analysis  
+- Contradiction and coherence testing across providers  
+- Multi-agent governance instrumentation  
+
+Supported providers include OpenAI, Anthropic, Google, OpenRouter, DeepSeek, Groq, Mistral, and Ollama.
+
+**Status:** Active Development | Experimental (Non-Peer Reviewed) Release (v0.2) | Restricted Repository Access | Web MCP Enabled | CC BY-NC-ND 4.0  
 
 ---
 
@@ -73,6 +93,7 @@ Together, these systems form a layered framework for exploring how systems:
 
 - reason  
 - interact  
+- stabilize  
 - evolve  
 
 This work bridges theoretical modeling with experimental system design, connecting abstract frameworks to observable system behavior.
@@ -81,13 +102,13 @@ This work bridges theoretical modeling with experimental system design, connecti
 
 ## Research & Publications
 
-- 🔗 [ORCID](https://orcid.org/0009-0003-3539-2219)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/resonancearchitect/)
-- 🔗 [Zenodo Publications](https://zenodo.org/search?q=Misty+Michele+Richards)
-- 🔗 [Google Developer Profile](https://g.dev/ResonanceArchitect)
+- 🔗 [ORCID](https://orcid.org/0009-0003-3539-2219)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/resonancearchitect/)  
+- 🔗 [Zenodo Publications](https://zenodo.org/search?q=ResonanceArchitect)  
+- 🔗 [Google Developer Profile](https://g.dev/ResonanceArchitect)  
 - 🔗 [Microsoft Developer Community](https://techcommunity.microsoft.com/users/resonancearchitect83/3412402)
 
 ---
 
-_Misty Michele Richards_  
-*From quarks to quasars… and from Kubernetes to cognition.*
+**Misty Michele Richards**  
+*From quarks to quasars... and from Kubernetes to cognition.*
